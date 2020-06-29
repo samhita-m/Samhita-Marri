@@ -1,5 +1,5 @@
 
-- layout: top-middle
+- layout: top-left
   name: Modular Manipulator Assembly and Design
   company: Cornell University
   dates: January 2019 – May 2019          
@@ -10,7 +10,7 @@
     - Actively worked on 3D printing of assembly pieces.
     - Demonstrated the performance by assembling and controlling a modular manipulator given a task.
  
-- layout: top-middle
+- layout: top-left
   name: Autonomous Control of UAV for Crop Health Measurement
   company: Cornell University
   dates: August 2018 – May 2019          
@@ -23,7 +23,7 @@
     - Successfully implemented autonomous flight on DJI Matrice 100 drone for better payload using ROS Onboard SDK in C++.
     - Integrated spectrometer measurement and perfectly tested outdoors.  
  
- - layout: top-middle
+ - layout: top-left
   name: Hydraulic Based Self-Sensing Actuator Design for MEMS Applications
   company: Cornell University
   dates: 2020 - Present
