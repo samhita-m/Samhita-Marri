@@ -26,11 +26,10 @@
  - layout: top-left
   name: Hydraulic Based Self-Sensing Actuator Design for MEMS Applications
   job_title: Cornell University
-  dates: 2020 - Present
+  dates: November 2018 – December 2018
   quote: >
-    Collaborated with one of the coolest robotics professors and PhD students.  
+    An outcome of research in self-sensing actuators.   
   description: | # this will include new lines to allow paragraphs
-    - Worked on designing assembly pieces for any arbitrary joint angle in AutoCAD.
-    - Actively worked on 3D printing of assembly pieces.
-    - Demonstrated the performance by assembling and controlling a modular manipulator given a task.
-   
+    - Identified a potential research idea in MEMS domain.
+    - Researched on available self-sensing actuators and proposed a model based on hydraulic principle that has significantly better sensitivity.
+
