@@ -1,5 +1,5 @@
 
-- layout: left
+- layout: top
   name: Modular Manipulator Assembly and Design
   company: Cornell University
   dates: January 2019 – May 2019           
@@ -19,7 +19,7 @@
     - Successfully implemented autonomous flight on DJI Matrice 100 drone for better payload using ROS Onboard SDK in C++.
     - Integrated spectrometer measurement and perfectly tested outdoors.  
  
-- layout: left
+- layout: top
   name: Hydraulic Based Self-Sensing Actuator Design for MEMS Applications
   company: Cornell University
   dates: November 2018 – December 2018 
@@ -27,7 +27,7 @@
     - Identified a potential research idea in MEMS domain.
     - Researched on available self-sensing actuators and proposed a model based on hydraulic principle that has significantly better sensitivity.
 
-- layout: left
+- layout: top
   name: Tool Annotation for Cataract Surgery 
   company: Indian Institute of Technology, Kharagpur, India                    
   dates: Summer 2017         
@@ -37,7 +37,7 @@
     - Collaborated with a PhD student to work on an open challenge of image classification problem in identifying tools used in the cataract surgery in each frame of the surgery video.
     - Using CUDA implementation, classified 22 different tools with an additional challenge of identifying two different tools being used simultaneously with algorithms like Vgg, AlexNet, ResNet, GoogLeNet and DenseNet.   
 
-- layout: left
+- layout: top
   name: Heart Sound Denoise and Abnormality Classification                              
   company: Mahindra Ecole Centrale                                
   dates: August 2016 - May 2017
