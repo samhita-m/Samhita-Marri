@@ -9,19 +9,19 @@
   name: Cornell University
   dates: 2018 - 2020
   qualification: MEng Electrical and Computer Engineering
-  quote: >
-   GPA: 3.737/4.3
   description: | 
    - Selected Coursework: Fundamentals of Robotics • Computer Vision • Autonomous Mobile Robots • Machine Learning and Pattern Recognition
-    - Winner of Poster Competition in “Bio-Signals” category for the UAV Project. 
+   - Winner of Poster Competition in “Bio-Signals” category for the UAV Project. 
+  quote: >
+   GPA: 3.737/4.3
 
 
 - layout: left
   name: Mahindra Ecole Centrale
   dates: 2014 - 2018
-  qualification: BTech Electricals and Eletronics Engineering
-  quote: >
-    GPA: 9.89/10.0
+  qualification: BTech Electricals and Eletronics Engineering  
   description: | 
    - Selected Coursework: Control Theory • Foundations of Robotics • Programmable Devices & Micro Processors  
    - Recipient of Annual Merit Scholarship
+  quote: >
+    GPA: 9.89/1
