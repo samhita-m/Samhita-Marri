@@ -3,7 +3,7 @@
   dates: 2020 - Present
   qualification: PhD Electrical and Computer Engineering
   quote: >
-    GPA: ll
+    
 
 - layout: top-middle
   name: Cornell University
@@ -11,6 +11,10 @@
   qualification: MEng Electrical and Computer Engineering
   quote: >
    GPA: 3.737/4.3
+  description: | 
+   - Selected Coursework: Fundamentals of Robotics • Computer Vision • Autonomous Mobile Robots • Machine Learning and Pattern Recognition
+    - Winner of Poster Competition in “Bio-Signals” category for the UAV Project. 
+
 
 - layout: top-middle
   name: Mahindra Ecole Centrale
@@ -18,3 +22,6 @@
   qualification: BTech Electricals and Eletronics Engineering
   quote: >
     GPA: 9.89/10.0
+  description: | 
+   - Selected Coursework: Control Theory • Foundations of Robotics • Programmable Devices & Micro Processors  
+   - Recipient of Annual Merit Scholarship

@@ -26,10 +26,7 @@ about_profile_image: images/dp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm a first year PhD student at the University of Illinois, Urbana-Champaign in Electrical and Computer Engineering. I am a research assitant at Distributed Autonomous Systems Laboratory (DASLAB). I am passionate about applying computer vision and multi-agent coordination in agricultural systems. 
 
-  I am most skilled in: <mark>Python</mark>, <mark>MATLABms</mark> and <mark>C++</mark>. 
-
-# Education Section
-# educaton_title: Education
+  I am most skilled in: <mark>ROS</mark>, <mark>Python</mark>, <mark>MATLAB</mark> and <mark>C++</mark>. 
 
 # Projects Section
 # projects_title: Projects
@@ -37,6 +34,8 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience
 
+# Education Section
+# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
@@ -44,6 +43,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in agricultural robotics, some of my other interests and hobbies are:
    - Cooking
    - Painting
+   - Drums
 
 
 # Footer
