@@ -2,19 +2,19 @@
   name: University of Illinois, Urbana-Champaign
   dates: 2020 - Present
   qualification: PhD Electrical and Computer Engineering
-  description: | # this will include new lines to allow paragraphs
+  quote: >
     
 
 - layout: left
   name: Cornell University
   dates: 2018 - 2020
   qualification: MEng Electrical and Computer Engineering
-  description: | # this will include new lines to allow paragraphs
+  quote: >
    GPA: 3.737/4.3
 
 - layout: left
   name: Mahindra Ecole Centrale
   dates: 2014 - 2018
   qualification: BTech Electrical and Eletronics Engineering
-  description: | # this will include new lines to allow paragraphs
+  quote: >
     GPA: 9.89/10
