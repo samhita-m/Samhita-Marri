@@ -1,5 +1,6 @@
 - layout: left
   name: Autonomous Control of UAV for Crop Health Measurement – Cornell University
+  dates: 2020 - Present
   link: https://github.com/samhita-m/autonomous-crop-measurement-with-drone
   github: samhita-m/autonomous-crop-measurement-with-drone
   quote: >
@@ -11,11 +12,11 @@
 
 - layout: left
   name: Modular Manipulator Assembly and Design – Cornell University
-  #link: https://github.com/samhita-m/autonomous-crop-measurement-with-drone
-  #github: samhita-m/autonomous-crop-measurement-with-drone
+  dates: 2020 - Present
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Worked with one of the coolest robotics professors and PhD 
   description: | # this will include new lines to allow paragraphs
-    - Worked on connecting Raspberry Pi3 to 3DR Solo Pixhawk drone and successful in implementing autonomous flight path. 
-    - Successfully implemented autonomous flight on DJI Matrice 100 drone for better payload using ROS Onboard SDK in C++.
-    - Integrated spectrometer measurement and perfectly tested outdoors.    
+    - Worked on designing assembly pieces for any arbitrary joint angle in AutoCAD.
+    - Actively worked on 3D printing of assembly pieces.
+    - Demonstrated the performance by assembling and controlling a modular manipulator given a task.
+   
