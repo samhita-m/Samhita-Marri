@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: Autonomous Control of UAV for Crop Health Measurement – Cornell University
   dates: 2020 - Present
   link: https://github.com/samhita-m/autonomous-crop-measurement-with-drone
@@ -10,7 +10,7 @@
     - Successfully implemented autonomous flight on DJI Matrice 100 drone for better payload using ROS Onboard SDK in C++.
     - Integrated spectrometer measurement and perfectly tested outdoors.  
 
-- layout: left
+- layout: top-middle
   name: Modular Manipulator Assembly and Design – Cornell University
   dates: 2020 - Present
   quote: >
