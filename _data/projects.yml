@@ -1,7 +1,6 @@
 
 - layout: top-left
   name: Modular Manipulator Assembly and Design
-  job_title: Cornell University
   dates: January 2019 – May 2019          
   quote: >
     Worked with one of the coolest robotics professors and PhD students.  
@@ -12,7 +11,6 @@
  
 - layout: top-left
   name: Autonomous Control of UAV for Crop Health Measurement
-  job_title: Cornell University
   dates: August 2018 – May 2019          
   link: https://github.com/samhita-m/autonomous-crop-measurement-with-drone
   github: samhita-m/autonomous-crop-measurement-with-drone
@@ -25,7 +23,6 @@
  
  - layout: top-left
   name: Hydraulic Based Self-Sensing Actuator Design for MEMS Applications
-  job_title: Cornell University
   dates: November 2018 – December 2018
   quote: >
     An outcome of research in self-sensing actuators.   
