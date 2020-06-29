@@ -17,7 +17,7 @@
   link: https://github.com/samhita-m/autonomous-crop-measurement-with-drone
   github: samhita-m/autonomous-crop-measurement-with-drone
   quote: >
-    My first agricultural project!
+    My first agricultural project.
   description: | # this will include new lines to allow paragraphs
     - Worked on connecting Raspberry Pi3 to 3DR Solo Pixhawk drone and successful in implementing autonomous flight path using preloaded GPS locations. 
     - Successfully implemented autonomous flight on DJI Matrice 100 drone for better payload using ROS Onboard SDK in C++.
@@ -28,7 +28,7 @@
   job_title: Cornell University
   dates: 2020 - Present
   quote: >
-    Worked with one of the coolest robotics professors and PhD students.  
+    Collaborated with one of the coolest robotics professors and PhD students.  
   description: | # this will include new lines to allow paragraphs
     - Worked on designing assembly pieces for any arbitrary joint angle in AutoCAD.
     - Actively worked on 3D printing of assembly pieces.
