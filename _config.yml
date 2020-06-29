@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: <mark>Projects<mark>
 
 # Experience Section
-# experience_title: Experience
+# experience_title: <mark>Experience<mark>
 
 # Education Section
 # educaton_title: Education
