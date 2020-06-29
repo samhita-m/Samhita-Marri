@@ -9,24 +9,24 @@ email: marri2@illinois.edu
 # website: www.github.com/sproogen/resume-theme
 
 # Social links
-# twitter_username: facespics
+# twitter_username: m_samhita
 github_username:  samhita-m
 # dribbble_username: jekyll
-# facebook_username: jekyll
+# facebook_username: Samhita Marri
 # flickr_username: jekyll
-#instagram_username: chillwildlife
+#instagram_username: samhita_marri
 linkedin_username: Samhita Marri
-# pinterest_username: jekyll
-#youtube_username: globalmtb
+# pinterest_username: sm
+#youtube_username: Samhita M
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/dp.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a research network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Samhita Marri and I'm a first year PhD student at the University of Illinois, Urbana-Champaign in Electrical and Computer Engineering. I am a research assitant at Distributed Autonomous Systems Laboratory (DASLAB). I am passionate about applying computer vision and multi-agent coordination in agricultural systems. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>MATLAB</mark> and <mark>C++</mark>. 
 
 # Projects Section
 # projects_title: Projects
