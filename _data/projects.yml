@@ -1,33 +1,33 @@
 
-- layout: top-left
+- layout: top-middle
   name: Modular Manipulator Assembly and Design
   company: Cornell University
   dates: January 2019 – May 2019          
   quote: >
     Worked with one of the coolest robotics professors and PhD students.  
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     - Worked on designing assembly pieces for any arbitrary joint angle in AutoCAD.
     - Actively worked on 3D printing of assembly pieces.
     - Demonstrated the performance by assembling and controlling a modular manipulator given a task.
  
-- layout: top-left
+- layout: top-middle
   name: Autonomous Control of UAV for Crop Health Measurement
   dates: August 2018 – May 2019          
   link: https://github.com/samhita-m/autonomous-crop-measurement-with-drone
   github: samhita-m/autonomous-crop-measurement-with-drone
   quote: >
     My first agricultural project.
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     - Worked on connecting Raspberry Pi3 to 3DR Solo Pixhawk drone and successful in implementing autonomous flight path using preloaded GPS locations. 
     - Successfully implemented autonomous flight on DJI Matrice 100 drone for better payload using ROS Onboard SDK in C++.
     - Integrated spectrometer measurement and perfectly tested outdoors.  
  
-- layout: top-left
+- layout: top-middle
   name: Hydraulic Based Self-Sensing Actuator Design for MEMS Applications
   dates: November 2018 – December 2018
   quote: >
     An outcome of research in self-sensing actuators.   
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     - Identified a potential research idea in MEMS domain.
     - Researched on available self-sensing actuators and proposed a model based on hydraulic principle that has significantly better sensitivity.
 
