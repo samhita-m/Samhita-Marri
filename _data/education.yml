@@ -1,11 +1,11 @@
-- layout: top-middle
+- layout: left
   name: University of Illinois, Urbana-Champaign
   dates: 2020 - Present
   qualification: PhD Electrical and Computer Engineering
   quote: >
     
 
-- layout: top-middle
+- layout: left
   name: Cornell University
   dates: 2018 - 2020
   qualification: MEng Electrical and Computer Engineering
@@ -16,7 +16,7 @@
     - Winner of Poster Competition in “Bio-Signals” category for the UAV Project. 
 
 
-- layout: top-middle
+- layout: left
   name: Mahindra Ecole Centrale
   dates: 2014 - 2018
   qualification: BTech Electricals and Eletronics Engineering
