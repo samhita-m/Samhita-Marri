@@ -7,7 +7,7 @@
 #
 layout: default
 
-title: About Me
+title: about_title
 nav_order: 1
 has_children: false
 has_toc: true
@@ -22,7 +22,7 @@ nav_order: 3
 has_children: false
 has_toc: true
 
-title: Projects
+title: projects_title
 nav_order: 4
 has_children: false
 has_toc: true
