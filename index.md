@@ -9,27 +9,27 @@ layout: default
 
 title: About Me
 nav_order: 1
-has_children: true
+has_children: false
 has_toc: true
 
 title: Education
 nav_order: 2
-has_children: true
+has_children: false
 has_toc: true
 
 title: Experience
 nav_order: 3
-has_children: true
+has_children: false
 has_toc: true
 
 title: Projects
 nav_order: 4
-has_children: true
+has_children: false
 has_toc: true
 
 title: A Little More About Me
 nav_order: 5
-has_children: true
+has_children: false
 has_toc: true
 
 ---
