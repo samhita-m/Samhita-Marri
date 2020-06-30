@@ -6,4 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+has_toc: true
 ---
