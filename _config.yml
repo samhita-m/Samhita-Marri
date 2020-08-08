@@ -28,13 +28,16 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in <mark>ROS</mark>, <mark>Python</mark>, <mark>MATLAB</mark> and <mark>C++</mark>. 
 
 # Projects Section
-# projects_title: <mark>Projects<mark>
+# projects_title: Projects
 
 # Experience Section
-# experience_title: <mark>Experience<mark>
+# experience_title: Experience
 
 # Education Section
 # educaton_title: Education
+
+# Publications Section
+# publications_title: Publications
 
 # More Section
 # more_title: A Little More About Me
